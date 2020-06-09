@@ -2,6 +2,7 @@ package com.itheima.canal.listener;
 
 import com.alibaba.otter.canal.protocol.CanalEntry;
 import com.itheima.canal.config.RabbitMQConfig;
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import com.xpand.starter.canal.annotation.CanalEventListener;
 import com.xpand.starter.canal.annotation.ListenPoint;
 import org.slf4j.Logger;
@@ -31,6 +32,7 @@ public class BusinessListener {
         for (CanalEntry.Column column : afl) {
             if ("position".equals(column.getName())) {
                 String value = column.getValue();
+                System.out.println("发送最新数据到mq:"+value);
                 logger.info("发送最新的数据到" + RabbitMQConfig.AD_UPDATE_QUEUE + "队列" + "消息为： " + value);
                 rabbitTemplate.convertAndSend("", RabbitMQConfig.AD_UPDATE_QUEUE, value);
             }
