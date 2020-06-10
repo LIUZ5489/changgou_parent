@@ -20,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/changgou_service_api/changgou_service_goods_api/changgou_service_goods_api.iml" filepath="$PROJECT_DIR$/changgou_service_api/changgou_service_goods_api/changgou_service_goods_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_service/changgou_service_order/changgou_service_order.iml" filepath="$PROJECT_DIR$/changgou_service/changgou_service_order/changgou_service_order.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_service_api/changgou_service_order_api/changgou_service_order_api.iml" filepath="$PROJECT_DIR$/changgou_service_api/changgou_service_order_api/changgou_service_order_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changgou_service/changgou_service_search/changgou_service_search.iml" filepath="$PROJECT_DIR$/changgou_service/changgou_service_search/changgou_service_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changgou_service_api/changgou_service_search_api/changgou_service_search_api.iml" filepath="$PROJECT_DIR$/changgou_service_api/changgou_service_search_api/changgou_service_search_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_service/changgou_service_system/changgou_service_system.iml" filepath="$PROJECT_DIR$/changgou_service/changgou_service_system/changgou_service_system.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_service_api/changgou_service_system_api/changgou_service_system_api.iml" filepath="$PROJECT_DIR$/changgou_service_api/changgou_service_system_api/changgou_service_system_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/changgou_service/changgou_service_user/changgou_service_user.iml" filepath="$PROJECT_DIR$/changgou_service/changgou_service_user/changgou_service_user.iml" />

@@ -12,9 +12,9 @@
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_business" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_file" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_file" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_goods" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_search" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_system" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service_api" charset="UTF-8" />
@@ -22,6 +22,7 @@
     <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_config_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_goods_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_order_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_search_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_system_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_user_api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/changgou_web" charset="UTF-8" />
